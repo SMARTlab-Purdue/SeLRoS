@@ -1,0 +1,7 @@
+Entire Map's size is (9.9, 7.9)
+Room 001 - Area: 43.6 % in entire map, Approximate length and width: (8.27, 3.64), Adjacent to: Room 002, Room 003, Room 005, Room 006, Observed Object = {apple, candle, dining_table, dispenser, doorknob, eraser, ladder, magnet, painting, refrigerator, table, vase}
+Room 002 - Area: 28.11 % in entire map, Approximate length and width: (5.17, 3.48), Adjacent to: Room 001, Room 004, Observed Object = {bowl, chair, coffee_table, cushion, dining_table, flowerpot, frisbee, ladder, ottoman, painting, projector, sofa, television_set, wheel}
+Room 003 - Area: 7.17 % in entire map, Approximate length and width: (1.98, 1.16), Adjacent to: Room 001, Observed Object = {apple, bed, candle, desk, dining_table, doorknob, ice_maker, ladder, magnet, painting, person, refrigerator, stapler_(stapling_machine), television_set}
+Room 004 - Area: 2.03 % in entire map, Approximate length and width: (1.1, 0.78), Adjacent to: Room 002, Observed Object = {basket, bowl, bucket, chair, coffee_table, cushion, dining_table, flowerpot, frisbee, hatbox, mirror, painting, projector, sofa, television_set, vase, wheel}
+Room 005 - Area: 7.13 % in entire map, Approximate length and width: (2.86, 1.48), Adjacent to: Room 001, Observed Object = {basket, bed, chair, coffee_table, dining_table, newspaper, painting, pen, pillow, vase}
+Room 006 - Area: 11.96 % in entire map, Approximate length and width: (3.68, 1.66), Adjacent to: Room 001, Observed Object = {armoire, boat, drawer}

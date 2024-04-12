@@ -1,0 +1,6 @@
+Entire Map's size is (7.9, 7.9)
+Room 001 - Area: 20.38 % in entire map, Approximate length and width: (4.7, 1.9), Adjacent to: Room 002, Observed Object = {bird, bowl, car_(automobile), chair, cushion, dining_table, easel, ladder, lantern, lightbulb, painting, pole, sofa, streetlight, television_set}
+Room 002 - Area: 30.97 % in entire map, Approximate length and width: (5.0, 2.96), Adjacent to: Room 001, Room 003, Room 004, Room 005, Observed Object = {bird, bottle, bowl, chair, cushion, dining_table, dragonfly, ladder, latch, painting, screwdriver, soap, sofa, table, television_set, vase, wineglass}
+Room 003 - Area: 19.23 % in entire map, Approximate length and width: (2.9, 2.78), Adjacent to: Room 002, Observed Object = {apple, bowl, box, chair, cushion, flowerpot, heart, kite, painting, pipe, sofa, tablecloth, television_set, toothbrush, toy, vase, wineglass}
+Room 004 - Area: 3.67 % in entire map, Approximate length and width: (1.36, 0.54), Adjacent to: Room 002, Room 005, Observed Object = {chair, cushion, dining_table, ladder, painting, sofa, television_set, vase}
+Room 005 - Area: 25.76 % in entire map, Approximate length and width: (4.68, 2.96), Adjacent to: Room 002, Room 004, Observed Object = {box, chair, cushion, ladder, painting, sofa, speaker_(stero_equipment), stool, tag, television_set, vase}

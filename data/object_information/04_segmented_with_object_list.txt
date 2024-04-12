@@ -1,0 +1,2 @@
+Entire Map's size is (9.1, 9.1)
+Room 001 - Area: 100.0 % in entire map, Approximate length and width: (9.08, 9.06), Adjacent to: No adjacent rooms, Observed Object = {coffee_table, knob, ladder, lamp, lampshade, mirror, ottoman, table

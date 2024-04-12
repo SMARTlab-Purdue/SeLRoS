@@ -1,0 +1,3 @@
+Room #1, center [3, 6.34], color [B: 220, G: 125, R: 29]
+Room #2, center [7.84, 8.06], color [B: 122, G: 233, R: 80]
+Room #3, center [6.94, 2.72], color [B: 4, G: 20, R: 21]

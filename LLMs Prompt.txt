@@ -1,0 +1,20 @@
+You must provide a Semantic Information for each room using the observed objects in each room, the size and area of each room, and the adjacency relationship between rooms.
+You can also use general knowledge (the number of living rooms, kitchens, and bathrooms in a typical house).
+
+The list of observed objects may be incorrectly observed.
+
+Additionally, this Semantic Information is layered in the room segmentation results and will be used to improve room segmentation.
+You must indicate whether each room is actually a room (Room-A: Bedroom1, Room-B: Bedroom1)
+or not (Room-A: Bedroom1, Room-B: Bedroom2) by the number following each Room.
+
+I will give the information, are you ready?
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Once again, you should review the Semantic Information you printed using the information you have already received (Observed objects in each room, the size and area of each room, the relationship between rooms, general knowledge)
+
+Additionally, this Semantic Information is layered in the room segmentation results and will be used to improve room segmentation.
+You must indicate whether each room is actually a room (Room-A: Bedroom1, Room-B: Bedroom1)
+or not (Room-A: Bedroom1, Room-B: Bedroom2) by the number following each Room.

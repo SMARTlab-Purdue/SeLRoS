@@ -1,0 +1,8 @@
+Room #1, center [-1.70, 1.00], color [[B: 211, G: 55, R: 29]]
+Room #2, center [1.48, 4.38], color [[B: 28, G: 51, R: 249]]
+Room #3, center [-3.24, 2.58], color [[B: 57, G: 153, R: 45]]
+Room #4, center [0.36, 0.96], color [[B: 198, G: 200, R: 44]]
+Room #5, center [1.74, 0.22], color [[B: 40, G: 3, R: 179]]
+Room #6, center [0.38, -1.68], color [[B: 154, G: 1, R: 182]]
+Room #7, center [0.88, -3.16], color [[B: 148, G: 39, R: 160]]
+Room #8, center [-1.60, -3.44], color [[B: 152, G: 36, R: 135]]

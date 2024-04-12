@@ -1,0 +1,4 @@
+Entire Map's size is (9.4, 9.4)
+Room 001 - Area: 57.59 % in entire map, Approximate length and width: (9.36, 6.62), Adjacent to: Room 002, Observed Object = {balloon, bird, bowl, butterfly, cat, coaster, cushion, dolphin, doorknob, figurine, painting, sawhorse, sofa, statue_(sculpture), stool, television_set, vase}
+Room 002 - Area: 28.6 % in entire map, Approximate length and width: (5.72, 2.72), Adjacent to: Room 001, Room 003, Observed Object = {ashtray, birdbath, boat, bolt, broom, candle, cistern, cover, cushion, easel, faucet, handle, ladder, lamp, lampshade, lightbulb, mallet, nailfile, painting, pipe, sink, sofa, toilet, trash_can}
+Room 003 - Area: 13.81 % in entire map, Approximate length and width: (3.42, 2.7), Adjacent to: Room 002, Observed Object = {baseball_bat, bed, bowl, box, broom, chair, cushion, drawer, dresser, faucet, ladder, lamp, lampshade, mirror, painting, sink, ski_pole, sofa, trash_can}
